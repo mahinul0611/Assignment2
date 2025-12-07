@@ -63,8 +63,8 @@ Built with **Node.js**, **Express**, **TypeScript**, **PostgreSQL**, and **JWT A
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone 
-cd your-repo-name
+git clone https://github.com/mahinul0611/Assignment2
+cd Assignment2
 ```
 
 ### 2️⃣ **Install Dependencies**
