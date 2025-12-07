@@ -76,9 +76,9 @@ npm install
 ### 3️⃣ **Environment Variables**
 
 ```
-CONNECTION_STR= postgresql://neondb_owner:npg_zlMqpbGm63Pw@ep-crimson-bread-a1q3lqbs-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+CONNECTION_STR= "Database Connection String"
 PORT=5000
-JWT_SECRET_KEY = "KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30"
+JWT_SECRET_KEY = "Your JWT SECRET
 ```
 
 ### 4️⃣ **Run the Server**
